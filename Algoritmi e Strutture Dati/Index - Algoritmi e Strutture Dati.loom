@@ -1,0 +1,446 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "ddcdd27f-3bf6-4d9a-8768-e03e2a6363ee",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "112.5625px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Reviewed",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "ba21729c-e5a1-491d-9b3b-f83a8b5caec8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "80.9625015258789px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "ID",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "count-all",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "a4bffd23-4de7-4b03-b8b0-63fc3f7440e1",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "302px",
+        "type": "file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Title",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "519681b1-8b91-4465-9514-2610d005afd7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "93.30000305175781px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Class",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "1afed497-265a-47a3-bf74-eac70cfafcb8",
+            "content": "2° Anno",
+            "color": "green"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "af084328-7aae-4131-830b-12f2ae65272d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "94.9124984741211px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Lesson",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "b2284c2f-ea2e-49c7-9b1c-953ad30f5cba",
+            "content": "Lesson",
+            "color": "red"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "991db5ba-c7c4-4647-9cc4-61b2b1500cd9",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "178px",
+        "type": "creation-time",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Created At",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "be10bf4b-2ee1-4c3f-89c9-3b5867e06d01",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "166px",
+        "type": "last-edited-time",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Last Edit",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "f84c88ab-f089-48e3-bb20-49d63f9c70b8",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-02-08T17:31:20.116Z",
+        "lastEditedDateTime": "2024-02-08T17:50:14.801Z",
+        "cells": [
+          {
+            "id": "0d808c4a-bebc-4bca-be61-382f80eccc9a",
+            "columnId": "ddcdd27f-3bf6-4d9a-8768-e03e2a6363ee",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4e568efb-a519-4df6-959e-2b7d934363ed",
+            "columnId": "ba21729c-e5a1-491d-9b3b-f83a8b5caec8",
+            "value": 1,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d9df4b48-4965-4edc-a18a-8df8729eeca9",
+            "columnId": "a4bffd23-4de7-4b03-b8b0-63fc3f7440e1",
+            "path": "UNIFE - Informatica/Algoritmi e Strutture Dati/01 - Intuizione Algoritmica",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5c8d9ae9-64b3-4a0a-9f89-a2ebcc379642",
+            "columnId": "519681b1-8b91-4465-9514-2610d005afd7",
+            "tagId": "1afed497-265a-47a3-bf74-eac70cfafcb8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7f70530b-a152-4c73-aa8f-aa51c067cd95",
+            "columnId": "af084328-7aae-4131-830b-12f2ae65272d",
+            "tagId": "b2284c2f-ea2e-49c7-9b1c-953ad30f5cba",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "95706720-e4f0-4bfb-bf4e-c4cc56eda8ed",
+            "columnId": "991db5ba-c7c4-4647-9cc4-61b2b1500cd9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "04202656-bdc2-482c-aa8d-14f7b93c2ad7",
+            "columnId": "be10bf4b-2ee1-4c3f-89c9-3b5867e06d01",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ce18af03-3cae-47f5-a504-2c6b4bd42302",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-02-08T17:36:27.205Z",
+        "lastEditedDateTime": "2024-02-08T17:49:50.838Z",
+        "cells": [
+          {
+            "id": "6c65532e-ef77-477c-b4e8-9c1f0ac642fb",
+            "columnId": "ddcdd27f-3bf6-4d9a-8768-e03e2a6363ee",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "98b570d8-402c-4532-a765-15b9ba2e5de0",
+            "columnId": "ba21729c-e5a1-491d-9b3b-f83a8b5caec8",
+            "value": 2,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2a9bf7b8-1a89-4cb4-bdf0-e99ebcede20e",
+            "columnId": "a4bffd23-4de7-4b03-b8b0-63fc3f7440e1",
+            "path": "UNIFE - Informatica/Algoritmi e Strutture Dati/02 - Correttezza e complessità di Algoritmi Iterativi",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "88d1f144-f0c1-4897-ab7d-ab4d0cf95e99",
+            "columnId": "519681b1-8b91-4465-9514-2610d005afd7",
+            "tagId": "1afed497-265a-47a3-bf74-eac70cfafcb8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9cfefeee-580f-46af-93f0-a104518aec17",
+            "columnId": "af084328-7aae-4131-830b-12f2ae65272d",
+            "tagId": "b2284c2f-ea2e-49c7-9b1c-953ad30f5cba",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "57d0abec-8e36-4da0-9e94-e6fa97e35948",
+            "columnId": "991db5ba-c7c4-4647-9cc4-61b2b1500cd9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5116d890-bbc7-4462-a2dc-174403ecbf07",
+            "columnId": "be10bf4b-2ee1-4c3f-89c9-3b5867e06d01",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a6cc1db1-f98e-485a-9452-e08717df2cc3",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-02-08T17:43:27.524Z",
+        "lastEditedDateTime": "2024-02-08T17:49:53.966Z",
+        "cells": [
+          {
+            "id": "33080cc0-bdb4-42c1-9e71-93428ffc1e2a",
+            "columnId": "ddcdd27f-3bf6-4d9a-8768-e03e2a6363ee",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f2c5154-06a8-4953-98d4-4b408de40f9b",
+            "columnId": "ba21729c-e5a1-491d-9b3b-f83a8b5caec8",
+            "value": 3,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5d250477-8a0e-41b9-b7a9-aa44442305c1",
+            "columnId": "a4bffd23-4de7-4b03-b8b0-63fc3f7440e1",
+            "path": "UNIFE - Informatica/Algoritmi e Strutture Dati/03 - Correttezza e complessità di Algoritmi Ricorsivi",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4e46cf66-659c-427f-b6f1-cb349c384559",
+            "columnId": "519681b1-8b91-4465-9514-2610d005afd7",
+            "tagId": "1afed497-265a-47a3-bf74-eac70cfafcb8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "32d158af-ec5a-47b4-85ad-7b6af6ab31e8",
+            "columnId": "af084328-7aae-4131-830b-12f2ae65272d",
+            "tagId": "b2284c2f-ea2e-49c7-9b1c-953ad30f5cba",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fdb0cd3b-f227-4f8e-bce8-4eb20c2f2ec2",
+            "columnId": "991db5ba-c7c4-4647-9cc4-61b2b1500cd9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7fbe5bdc-a1e3-443a-a6f6-d9dad029d145",
+            "columnId": "be10bf4b-2ee1-4c3f-89c9-3b5867e06d01",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e7fe0929-1d9a-465c-bf8e-d007e0f475e2",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-02-08T17:46:02.588Z",
+        "lastEditedDateTime": "2024-02-08T17:49:57.679Z",
+        "cells": [
+          {
+            "id": "0e65f3d5-cfba-4ecc-926f-b072689152a0",
+            "columnId": "ddcdd27f-3bf6-4d9a-8768-e03e2a6363ee",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "423ba3f9-2c90-4879-a717-9bf0d3085b99",
+            "columnId": "ba21729c-e5a1-491d-9b3b-f83a8b5caec8",
+            "value": 4,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1dd312a7-d7b9-4664-8e49-c9254f98c132",
+            "columnId": "a4bffd23-4de7-4b03-b8b0-63fc3f7440e1",
+            "path": "UNIFE - Informatica/Algoritmi e Strutture Dati/04 - Notazione Asintotica",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8e675584-55df-44b4-8218-063bcf9bdfae",
+            "columnId": "519681b1-8b91-4465-9514-2610d005afd7",
+            "tagId": "1afed497-265a-47a3-bf74-eac70cfafcb8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cb3d93db-ecf0-4f2b-b5ca-7d7fd3da0a33",
+            "columnId": "af084328-7aae-4131-830b-12f2ae65272d",
+            "tagId": "b2284c2f-ea2e-49c7-9b1c-953ad30f5cba",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e547e85-4b3f-4bd5-b7cb-77b50464af03",
+            "columnId": "991db5ba-c7c4-4647-9cc4-61b2b1500cd9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5418a014-90b6-4c2f-93d7-df7aa124075d",
+            "columnId": "be10bf4b-2ee1-4c3f-89c9-3b5867e06d01",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6ffb24ae-f00e-492b-905f-c602d7a73c0b",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-02-08T17:46:31.361Z",
+        "lastEditedDateTime": "2024-02-08T17:50:01.354Z",
+        "cells": [
+          {
+            "id": "8aa94cd3-72b2-4745-83ec-15347d6c61b7",
+            "columnId": "ddcdd27f-3bf6-4d9a-8768-e03e2a6363ee",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e3926603-dd71-457c-983c-23b26821195d",
+            "columnId": "ba21729c-e5a1-491d-9b3b-f83a8b5caec8",
+            "value": 5,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9444d3d6-aaee-4fd0-8e19-cd564a0aeab9",
+            "columnId": "a4bffd23-4de7-4b03-b8b0-63fc3f7440e1",
+            "path": "UNIFE - Informatica/Algoritmi e Strutture Dati/05 - Soluzione di Ricorrenze",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4b830e9d-a0d8-4804-b517-7f02b8231377",
+            "columnId": "519681b1-8b91-4465-9514-2610d005afd7",
+            "tagId": "1afed497-265a-47a3-bf74-eac70cfafcb8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b71c3127-7cec-43bb-9178-9ac3ea2d0a95",
+            "columnId": "af084328-7aae-4131-830b-12f2ae65272d",
+            "tagId": "b2284c2f-ea2e-49c7-9b1c-953ad30f5cba",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "04b203b1-2e1d-4482-a8ca-b8035a14ea69",
+            "columnId": "991db5ba-c7c4-4647-9cc4-61b2b1500cd9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ab3ac633-4ccb-4fa9-9b1f-3f6e08445f0d",
+            "columnId": "be10bf4b-2ee1-4c3f-89c9-3b5867e06d01",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}
